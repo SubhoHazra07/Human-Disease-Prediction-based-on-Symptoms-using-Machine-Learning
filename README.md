@@ -91,10 +91,10 @@ To run this project on your local machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/disease-prediction-symptoms.git
+   [git clone https://github.com/<your-username>/disease-prediction-symptoms.git](https://github.com/SubhoHazra07/Human-Disease-Prediction-based-on-Symptoms-using-Machine-Learning.git)
 2. Navigate to the project directory:
    ```bash
-   cd disease-prediction-symptoms
+   cd Human Disease Prediction
 3. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
